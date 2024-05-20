@@ -1,4 +1,5 @@
-
+Blog App
+- Auth: credentials + Oauth2
 
 
 mongodb {
@@ -10,4 +11,8 @@ mongodb {
 }
 
 6, 8, 10, 11
+params
+query
+middleware
+router
 
